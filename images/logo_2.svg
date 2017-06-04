@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="419px" height="99px" viewBox="0 0 419 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo - Platform.Digital</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="35.6938662 6.94752897e-14 27.3077359 8.86683853 27.3049808 8.86801667 47.1476629 0.383349011 48.1262674 1.29854278 48.1262674 58.5453823 28.3622979 79.4444444 0.988892691 79.4444444 0 78.5196237 0 37.7399035 27.3049808 8.86975164 27.3049808 42.4128956 0.848058872 53.6602978 0.848058872 79.3122616 47.1476629 59.5799844 47.1476629 0.383349011 46.737753 0"></polygon>
+        <linearGradient x1="163.739949%" y1="118.340046%" x2="-42.5262564%" y2="-6.89870769%" id="linearGradient-3">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-4" points="92.8059166 19.9386856 72.9632344 28.4235722 72.7648061 28.48934 46.5063125 17.3077178 20.247819 28.48934 0.206694668 19.9386856 46.5063125 0.206408889"></polygon>
+        <linearGradient x1="0.0419796491%" y1="0.208493827%" x2="0.0419796491%" y2="1264.40602%" id="linearGradient-6">
+            <stop stop-color="#80C3F3" offset="0%"></stop>
+            <stop stop-color="#4A90E2" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-7" points="92.8059166 19.9386856 72.9632344 28.4235722 72.7648061 28.48934 46.5063125 17.3077178 20.247819 28.48934 0.206694668 19.9386856 46.5063125 0.206408889"></polygon>
+        <linearGradient x1="9.44542326%" y1="28.7771235%" x2="9.44542326%" y2="0.208493827%" id="linearGradient-9">
+            <stop stop-color="#80C3F3" offset="0%"></stop>
+            <stop stop-color="#4A90E2" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-10" points="46.5063125 53.6602978 46.5063125 79.3122616 0.206694668 59.5799844 0.206694668 0.38313 20.247819 8.93378444 20.0493906 8.99956444 20.0493906 42.4128956"></polygon>
+        <linearGradient x1="0.0419796491%" y1="20.1400864%" x2="0.0419796491%" y2="1284.33762%" id="linearGradient-12">
+            <stop stop-color="#80C3F3" offset="0%"></stop>
+            <stop stop-color="#4A90E2" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-13" points="46.5063125 53.6602978 46.5063125 79.3122616 0.206694668 59.5799844 0.206694668 0.38313 20.247819 8.93378444 20.0493906 8.99956444 20.0493906 42.4128956"></polygon>
+        <linearGradient x1="9.44542326%" y1="60.003284%" x2="0.0419796491%" y2="60.003284%" id="linearGradient-15">
+            <stop stop-color="#80C3F3" offset="0%"></stop>
+            <stop stop-color="#4A90E2" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-16" points="27.3049808 44.85734 27.3049808 11.4440089 0.848058872 0.196606667 0.848058872 33.7414856 27.1065525 44.9231078"></polygon>
+        <polygon id="path-18" points="26.7622028 0.741485556 0.503709258 11.9231078 26.7622028 23.1047422 53.0206964 11.9231078"></polygon>
+        <polygon id="path-20" points="26.7622028 0.196606667 0.305280956 11.4440089 0.305280956 44.85734 0.503709258 44.9231078 26.7622028 33.7414856"></polygon>
+        <polygon id="path-22" points="239.490845 1.73688224e-14 0.093514582 1.73688224e-14 0.093514582 66.4888068 239.490845 66.4888068 239.490845 0"></polygon>
+        <polygon id="path-24" points="18.0483375 0 0.77224149 0 0.77224149 66.0004476 18.0483375 66.0004476 18.0483375 0"></polygon>
+        <polygon id="path-26" points="130.804727 66.9779494 130.804727 0 0.648840805 0 0.648840805 66.9779494 130.804727 66.9779494"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo---Platform.Digital">
+            <g id="Page-1">
+                <g id="Group-7" transform="translate(45.658254, 19.555556)">
+                    <g id="Group-3">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                    </g>
+                    <g id="Group-6" fill="url(#linearGradient-3)">
+                        <polygon id="Fill-4" points="0 79.4444444 47.1472554 59.592424 47.1472554 0.3797032 0 0"></polygon>
+                    </g>
+                </g>
+                <g id="Group-14">
+                    <g id="Group-10">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="Clip-9"></g>
+                        <polygon id="Fill-8" fill="url(#linearGradient-6)" mask="url(#mask-5)" points="0 99 492.368735 99 492.368735 0 0 0"></polygon>
+                    </g>
+                    <g id="Group-13">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <g id="Clip-12"></g>
+                        <polygon id="Fill-11" fill="url(#linearGradient-9)" mask="url(#mask-8)" points="0 99 492.368735 99 492.368735 0 0 0"></polygon>
+                    </g>
+                </g>
+                <g id="Group-21" transform="translate(0.000000, 19.555556)">
+                    <g id="Group-17">
+                        <mask id="mask-11" fill="white">
+                            <use xlink:href="#path-10"></use>
+                        </mask>
+                        <g id="Clip-16"></g>
+                        <polygon id="Fill-15" fill="url(#linearGradient-12)" mask="url(#mask-11)" points="0 79.4444444 492.368735 79.4444444 492.368735 -19.5555556 0 -19.5555556"></polygon>
+                    </g>
+                    <g id="Group-20">
+                        <mask id="mask-14" fill="white">
+                            <use xlink:href="#path-13"></use>
+                        </mask>
+                        <g id="Clip-19"></g>
+                        <polygon id="Fill-18" fill="url(#linearGradient-15)" mask="url(#mask-14)" points="0 79.4444444 492.368735 79.4444444 492.368735 -19.5555556 0 -19.5555556"></polygon>
+                    </g>
+                </g>
+                <g id="Group-24" transform="translate(45.658254, 17.111111)">
+                    <mask id="mask-17" fill="white">
+                        <use xlink:href="#path-16"></use>
+                    </mask>
+                    <g id="Clip-23"></g>
+                    <polygon id="Fill-22" fill="#FFFFFF" mask="url(#mask-17)" points="-5.32197541 -5.91450444 33.475015 -5.91450444 33.475015 51.0342189 -5.32197541 51.0342189"></polygon>
+                </g>
+                <g id="Group-27" transform="translate(19.744110, 50.111111)">
+                    <mask id="mask-19" fill="white">
+                        <use xlink:href="#path-18"></use>
+                    </mask>
+                    <g id="Clip-26"></g>
+                    <polygon id="Fill-25" fill="#F1EDED" mask="url(#mask-19)" points="-5.66632502 -5.36962556 59.1907307 -5.36962556 59.1907307 29.2158533 -5.66632502 29.2158533"></polygon>
+                </g>
+                <g id="Group-30" transform="translate(19.744110, 17.111111)">
+                    <mask id="mask-21" fill="white">
+                        <use xlink:href="#path-20"></use>
+                    </mask>
+                    <g id="Clip-29"></g>
+                    <polygon id="Fill-28" fill="#BDBDBD" mask="url(#mask-21)" points="-5.86475332 -5.91450444 32.9322371 -5.91450444 32.9322371 51.0342189 -5.86475332 51.0342189"></polygon>
+                </g>
+                <g id="Group-37" transform="translate(106.124590, 0.000000)">
+                    <g id="Group-32">
+                        <mask id="mask-23" fill="white">
+                            <use xlink:href="#path-22"></use>
+                        </mask>
+                        <g id="Clip-31"></g>
+                        <text id="platform" mask="url(#mask-23)" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="50" font-weight="400" fill="#FFFFFF">
+                            <tspan x="0.093514582" y="42.1554735">platform</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-34" transform="translate(189.163323, 0.000000)">
+                        <mask id="mask-25" fill="white">
+                            <use xlink:href="#path-24"></use>
+                        </mask>
+                        <g id="Clip-33"></g>
+                        <text id="." mask="url(#mask-25)" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="50" font-weight="300" fill="#FFFFFF">
+                            <tspan x="0.77224149" y="41.8893365">.</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-36" transform="translate(200.439419, 0.000000)">
+                        <mask id="mask-27" fill="white">
+                            <use xlink:href="#path-26"></use>
+                        </mask>
+                        <g id="Clip-35"></g>
+                        <text id="digital" mask="url(#mask-27)" font-family="HelveticaNeue-UltraLight, Helvetica Neue" font-size="50" font-weight="200" letter-spacing="0.005" fill="#FFFFFF">
+                            <tspan x="0.648840805" y="43.0890605">d</tspan>
+                            <tspan x="27.5038408" y="43.0890605" letter-spacing="-0.005">i</tspan>
+                            <tspan x="33.9988408" y="43.0890605">g</tspan>
+                            <tspan x="59.9488408" y="43.0890605" letter-spacing="-0.005">i</tspan>
+                            <tspan x="66.4438408" y="43.0890605" letter-spacing="0.01">t</tspan>
+                            <tspan x="78.5038408" y="43.0890605">al</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
